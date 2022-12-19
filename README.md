@@ -93,7 +93,7 @@
 <h2 align="center">📊 My Github Stats</h2>
    <br/>
     <p align="center">
-  <a href="https://github.com/SachinMasai/github-readme-stats"><img alt="SachinMasai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinMasai&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tripathirahul274/github-readme-stats"><img alt="SachinMasai Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathirahul274&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
      <br/>
    <p align="center">
