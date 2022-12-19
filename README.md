@@ -41,7 +41,7 @@
 
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/rahul-tripathi-251b52234/)
+<a href="https://www.linkedin.com/in/rahul-tripathi-251b52234/">LinkedIn</a>
 
 <br/>
 
@@ -104,18 +104,3 @@
 
   <br/>
   <br/>
-     <p align="center">
-    <a href="https://github.com/tripathirahul274/github-readme-stats"><img alt="lokesh-patidar Github Stats" src="https://github-readme-stats.vercel.app/api?username=tripathirahul274&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="tripathirahul" /></a>
-    </p>
- <h6 align="center">
-
-
-<br/>
-<br/>
-
-  <br/>
-
-<a href="https://github.com/tripathirahul274/github-readme-activity-graph"><img alt="SachinMasai Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tripathirahul274&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
