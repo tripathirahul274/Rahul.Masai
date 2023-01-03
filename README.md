@@ -98,7 +98,7 @@
      <br/>
    <p align="center">
     <a href="https://github.com/tripathirahul274/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RahulMasaiStreak" src="https://github-readme-streak-stats.vercel.com/?user=tripathirahul274&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RahulMasaiStreak" src="https://github-readme-streak-stats.heroku.com/?user=tripathirahul274&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
